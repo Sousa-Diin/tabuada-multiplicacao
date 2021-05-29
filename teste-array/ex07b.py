@@ -1,4 +1,4 @@
-print("_______________TABUADA MULTIPLICAÇÃO______________")
+print("_______________TABUADA DE MULTIPLICAÇÃO______________")
 print('example: tabuada [1] | tabuada [2] ....')
 tabu = int(input('Digite qual tabuada deseja exibir: '))
 
